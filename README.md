@@ -1,0 +1,2 @@
+# souces.list
+ubuntu源
